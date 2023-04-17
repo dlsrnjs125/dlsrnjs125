@@ -1,8 +1,8 @@
 # inkwon Hwang
 
 ### Email : dlsrnjs125@naver.com
-### Velog : [Velog 링크](https://velog.io/@dlsrnjs125)
-### <img width="422" alt="image" src="https://user-images.githubusercontent.com/64239673/232428808-65fd4627-3517-490a-bd4f-fa6058a27ed5.png"> : [Notion](https://hill-rosehip-0d5.notion.site/inkwon-Hwang-8aa0da86b47749e0a69a3195de95e73e)
+### [Velog](https://velog.io/@dlsrnjs125)
+### [Notion](https://hill-rosehip-0d5.notion.site/inkwon-Hwang-8aa0da86b47749e0a69a3195de95e73e)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsrnjs125&show_icons=true&theme=radical)
 <!--
 **dlsrnjs125/dlsrnjs125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
