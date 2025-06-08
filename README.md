@@ -3,6 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=inkwon's%20GitHub&fontSize=50&fontAlignY=40" />
 
 ### 👋 Welcome to my GitHub!
+## 🙋 About Me
+🧑‍💻 Backend Developer interested in AI & FinTech
+
+🧠 Passionate about stock market, real-time data, and ML
+
+🌱 Currently learning: Kubernetes, Terraform, Cloud Infra
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@dlsrnjs125)
 [![Email](https://img.shields.io/badge/dlsrnjs125@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:dlsrnjs125@naver.com)
@@ -20,9 +26,9 @@
 
 ### 💻 Skills & Tools
 
-<p align="center">
-  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,spring,react,mysql,tensorflow,pytorch,git,stackoverflow,eclipse,vscode&titles=true" alt="Skill Icons" />
-</p>
+<div align="center">
+  <img width="800" src="https://skillicons.dev/icons?i=py,java,spring,react,docker,aws,fastapi,django,postgresql,mysql,git,vscode" />
+</div>
 
 ---
 
@@ -31,3 +37,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsrnjs125)](https://solved.ac/dlsrnjs125/)
 
 </div>
+
